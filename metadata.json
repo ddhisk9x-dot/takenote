@@ -1,0 +1,7 @@
+{
+  "name": "Teacher Note Assistant",
+  "description": "A quick-log assistant for teachers to track student behavior, attendance, and grading with real-time timetable context.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
